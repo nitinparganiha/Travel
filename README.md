@@ -1,2 +1,2 @@
 # Travel
-Simple project using Express.js and React.
+Simple project using Express.js.
